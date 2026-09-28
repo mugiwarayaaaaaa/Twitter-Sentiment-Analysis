@@ -1,0 +1,15 @@
+Twitter Sentiment Analysis - Model Evaluation
+==================================================
+
+Test set size: 5,000
+Accuracy: 86.98%
+
+              precision    recall  f1-score   support
+
+    negative       0.84      0.87      0.85      1696
+     neutral       0.88      0.91      0.89      1383
+    positive       0.89      0.84      0.87      1921
+
+    accuracy                           0.87      5000
+   macro avg       0.87      0.87      0.87      5000
+weighted avg       0.87      0.87      0.87      5000

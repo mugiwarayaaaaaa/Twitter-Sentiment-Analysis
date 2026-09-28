@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# NLTK downloaded data (re-downloaded automatically on first run)
+nltk_data/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# Flask
+instance/
